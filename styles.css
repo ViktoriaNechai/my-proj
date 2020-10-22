@@ -1,6 +1,16 @@
 h2{
     background-color: green;
-    }
-    ul li{
-        background-color: wheat;
-    }
+}
+ul li{
+    background-color: wheat;
+}
+table {
+    border: 4px double #333; 
+    border-collapse: separate; 
+    width: 100%;  
+    border-spacing: 7px 11px;
+}
+td {
+    padding: 5px; 
+    border: 1px solid #a52a2a; 
+}
